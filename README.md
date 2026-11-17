@@ -6,9 +6,9 @@
 </p>
 
 ### 🔭 Currently
-- 🌱 Learning: *(isi, misal: JavaScript, Python, React)*
-- 🛠️ Working on: *(isi proyekmu)*
-- 💬 Ask me about: *(isi)*
+- 🌱 Learning: *(Html,Css,JavaScript, Python,)*
+- 🛠️ Working on: *(Portofolio)*
+- 💬 Ask me about: *(Masih belajar coding)*
 
 ### 🧰 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
