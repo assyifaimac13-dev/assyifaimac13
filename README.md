@@ -24,13 +24,7 @@
 
 ### 📫 Reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username-kamu)
-![Nama](https://img.shields.io/badge/NAMA-WARNAHEX?style=for-the-badge&logo=SLUG&logoColor=white)
-NAMA adalah tulisan di badge
-WARNAHEX adalah warna latar tanpa tanda #
-SLUG adalah nama logo di simpleicons.org, biasanya huruf kecil tanpa spasi
-
-Contoh badge tambahan, tinggal tempel di bagian Tech Stack:
-
+![Rezky](https://img.shields.io/badge/NAMA-WARNAHEX?style=for-the-badge&logo=SLUG&logoColor=white)
 markdown
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
